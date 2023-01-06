@@ -1,0 +1,1 @@
+console.log("test - ist JS mit html richtig verknüpft ? Dann kann man das im Browser F12 bei der Konsole lesen");
